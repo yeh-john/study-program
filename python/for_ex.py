@@ -1,8 +1,5 @@
 # This is the for function example.
 
-
-
-
 # print 1 to 100
 num = input('Number :')
 
